@@ -1,0 +1,82 @@
+In euk, some genes are present in many, many copies, due to the need for high levels of product.
+i.e. gene coding for machinery; histones, ribosomes, ...
+
+Globins
+a-globin, b-globin
+myoglobin used in muscles
+white meat / dark meat in e.g. birds is due to pigmentation, which is due to presence to myoglobin
+
+Often, new variant of gene created by recombination mutation.
+
+Pseudogenes - copies of genes that appear like another, but no longer function
+transposition - Movement from one chromosome to another
+
+Tandem Repeats
+Transposable elements
+LINE (long interspersed element)
+SINE (short interspersed element)
+
+Alu sequence (300bp) > 1M repeats -> 10% of human genome!
+
+Consider B-globin as an example of what happens after transcription
+
+== Handout, page 1
+
+UI = untranslated
+ORF = open reading frame
+poly-A tail has 100-200 A's on 3' end of molecule
+"5' cap" is backwards guanosine
+poly-A tail makes it stable
+
+== Handout page 2
+
+Spliceosome
+Donor site follows exons
+Acceptor site precedes introns
+machinery splices donor site to acceptor site; the *next* sequential acceptor, since
+this is happening at the same time as xscription (and the next acceptor is the first one available)
+
+Sometimes you can trick the slicing machinery by covering an acceptor site with an RNA binding protein,
+resulting in controlled 'alternative splicing.'
+
+DNA/RNA/proten -> genome/transcriptome/proteome, with (in humans) 21K genes/100K mRNAs/1M proteins
+
+== Handout page 3
+
+TATA box   PPE  enhancers mRNA?
+-          +    +         -     } TATA box is essential.
++          -    -         +     } TATA box is essential.
++          +    -         +++   }
++          +    +         +++++ } cell tissue time specific
+
+TATA box is kind of like a promoter; it identifies xscription start point (more or less).
+
+GTF - Generic Transcription Factor
+
+== Handout pages 4 and 5
+
+Dimer binders: helix-turn-helix-dimer, zinc finger dimers, etc.
+homodimer: same protein, 2x, adhere back-to-back
+heterodimer: diff. proteins
+
+often these will have 2 domains with a loose structure (has some wiggle room)
+holding them together; DNA binding domain and activation domain.
+
+== Handout page 6
+
+Nuclesomes, chromatin
+
+Histone tails are very rich in lysine (one such tail has 44 lysines!), which is typ. + charged, making histones
+very attracted to DNA (and all the - charge of its phosphate).
+
+Adding an acetyl group to lysine (done so by HATs; histone acetyl transferases) starts getting rid of the charges,
+loosening up on the DNA, and allowing it to be xscribed.
+
+Histones have codes.  We understand the acetylation best (vs methylation, ubiquination, etc.).  Reverse of HAT is
+HDAC (histone deacetylases), turns gene off again.
+
+Imprinting - genes that only function if inherited from the correct sex (since each sex methylates its gametes dna differently)
+this is an example of epigenetic changes.
+
+
+
